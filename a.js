@@ -1,1 +1,1 @@
-console.log("a");
+const w = 123;
